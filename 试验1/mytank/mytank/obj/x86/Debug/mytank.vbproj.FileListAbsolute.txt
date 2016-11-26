@@ -1,0 +1,54 @@
+C:\Users\Beyond\AppData\Local\Temporary Projects\mytank\obj\x86\Debug\mytank.Form1.resources
+C:\Users\Beyond\AppData\Local\Temporary Projects\mytank\obj\x86\Debug\mytank.Resources.resources
+C:\Users\Beyond\AppData\Local\Temporary Projects\mytank\obj\x86\Debug\mytank.vbproj.GenerateResource.Cache
+C:\Users\Beyond\AppData\Local\Temporary Projects\mytank\bin\Debug\mytank.exe
+C:\Users\Beyond\AppData\Local\Temporary Projects\mytank\bin\Debug\mytank.pdb
+C:\Users\Beyond\AppData\Local\Temporary Projects\mytank\bin\Debug\mytank.xml
+C:\Users\Beyond\AppData\Local\Temporary Projects\mytank\obj\x86\Debug\mytank.exe
+C:\Users\Beyond\AppData\Local\Temporary Projects\mytank\obj\x86\Debug\mytank.xml
+C:\Users\Beyond\AppData\Local\Temporary Projects\mytank\obj\x86\Debug\mytank.pdb
+C:\Users\Beyond\AppData\Local\Temporary Projects\mytank\obj\x86\Debug\mytank.AboutBox1.resources
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\obj\x86\Debug\mytank.Resources.resources
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\obj\x86\Debug\mytank.vbproj.GenerateResource.Cache
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\obj\x86\Debug\mytank.AboutBox1.resources
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\bin\Debug\Interop.WMPLib.dll
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\bin\Debug\AxInterop.WMPLib.dll
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\obj\x86\Debug\Interop.WMPLib.dll
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\obj\x86\Debug\mytank.vbproj.ResolveComReference.cache
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\obj\x86\Debug\mytank.Form2.resources
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\obj\x86\Debug\mytank.Form1.resources
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\obj\x86\Debug\mytank.Help.resources
+C:\Users\Beyond\Desktop\试验1\mytank\mytank\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Beyond\Desktop\试验1\mytank\mytank\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Beyond\Desktop\试验1\mytank\mytank\obj\x86\Debug\mytank.vbproj.ResolveComReference.cache
+C:\Users\Beyond\Desktop\试验1\mytank\mytank\obj\x86\Debug\mytank.exe
+C:\Users\Beyond\Desktop\试验1\mytank\mytank\obj\x86\Debug\mytank.xml
+C:\Users\Beyond\Desktop\试验1\mytank\mytank\obj\x86\Debug\mytank.pdb
+C:\Users\Beyond\Desktop\试验1\mytank\mytank\bin\Debug\mytank.exe
+C:\Users\Beyond\Desktop\试验1\mytank\mytank\bin\Debug\mytank.pdb
+C:\Users\Beyond\Desktop\试验1\mytank\mytank\bin\Debug\mytank.xml
+C:\Users\Beyond\Desktop\试验1\mytank\mytank\bin\Debug\Interop.WMPLib.dll
+C:\Users\Beyond\Desktop\试验1\mytank\mytank\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Beyond\Desktop\试验1\mytank\mytank\obj\x86\Debug\mytank.AboutBox1.resources
+C:\Users\Beyond\Desktop\试验1\mytank\mytank\obj\x86\Debug\mytank.Help.resources
+C:\Users\Beyond\Desktop\试验1\mytank\mytank\obj\x86\Debug\mytank.Form1.resources
+C:\Users\Beyond\Desktop\试验1\mytank\mytank\obj\x86\Debug\mytank.Form2.resources
+C:\Users\Beyond\Desktop\试验1\mytank\mytank\obj\x86\Debug\mytank.Resources.resources
+C:\Users\Beyond\Desktop\试验1\mytank\mytank\obj\x86\Debug\mytank.vbproj.GenerateResource.Cache
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\bin\Debug\坦克大战.exe.manifest
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\bin\Debug\坦克大战.application
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\bin\Debug\坦克大战.exe
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\bin\Debug\坦克大战.pdb
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\bin\Debug\坦克大战.xml
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\obj\x86\Debug\坦克大战.exe.manifest
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\obj\x86\Debug\坦克大战.application
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\obj\x86\Debug\坦克大战.exe
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\obj\x86\Debug\坦克大战.xml
+G:\university\computer science\VB 2010\我的坦克大战\试验1\mytank\mytank\obj\x86\Debug\坦克大战.pdb
+G:\university\computer science\VB 2010\坦克大战\我的坦克大战\试验1\mytank\mytank\obj\x86\Debug\Interop.WMPLib.dll
+G:\university\computer science\VB 2010\坦克大战\我的坦克大战\试验1\mytank\mytank\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\university\computer science\VB 2010\坦克大战\我的坦克大战\试验1\mytank\mytank\obj\x86\Debug\mytank.vbproj.ResolveComReference.cache
+G:\university\computer science\VB 2010\坦克大战\我的坦克大战\试验1\mytank\mytank\obj\x86\Debug\坦克大战.exe
+G:\university\computer science\VB 2010\坦克大战\我的坦克大战\试验1\mytank\mytank\obj\x86\Debug\坦克大战.xml
+G:\university\computer science\VB 2010\坦克大战\我的坦克大战\试验1\mytank\mytank\obj\x86\Debug\坦克大战.pdb
